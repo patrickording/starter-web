@@ -14,7 +14,7 @@ Further Reading
 
 ### Copyright
 
-Git. Training 2014
+Git. Training 2014. All rights reserved.
 
 ## How to Contribute
 
