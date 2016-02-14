@@ -15,3 +15,7 @@ Further Reading
 ### Copyright
 
 Git. Training 2014
+
+## How to Contribute
+
+Please fork this repository and then issue Pull Requests for review.
